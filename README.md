@@ -1,9 +1,9 @@
 # OASISINFOBYTE INTERNSHIP TASKS
 <p>I have been selected as an intern at oasisinfobyte and some tasks have been assigned to me and i need to complete them in order to fullfill criteria for completion of this internship program.</p>
 <p>The tasks are Machine Learning Tasks where i perform some analysis to find hidden insights in the given dataset, and perform EDA, Vizualisation, and then Model Building, Model Evalution, Model Testing.<p>
-The Tasks that have given to me are : 
- 1.IRIS FLOWER CLASSIFICATION
-   Iris flower has three species; setosa, versicolor, and virginica, which differs according to their
+<h3>The Tasks that have given to me are : <h3>
+ <h4>1.IRIS FLOWER CLASSIFICATION<h4>
+   Iris flower has three species; setosa, versicolor, and virginica, which differs according to their</br>
    measurements. Now assume that you have the measurements of the iris flowers according to
    their species, and here your task is to train a machine learning model that can learn from the
    measurements of the iris species and classify them.
