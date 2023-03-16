@@ -23,7 +23,7 @@
    messages, scams, or most dangerously, phishing content.
    In this Project, use Python to build an email spam detector. Then, use machine learning to
    train the spam detector to recognize and classify emails into spam and non-spam. Let’s get started!</p>
- <h4><b><h4><b>5.SALES PREDICTION USING PYTHON</h4></b>
+ <h4><b>5.SALES PREDICTION USING PYTHON</h4></b>
    <p>Sales prediction means predicting how much of a product people will buy based on factors
    such as the amount you spend to advertise your product, the segment of people you
    advertise for, or the platform you are advertising on about your product.
